@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: InspirePay Donations
+ * Plugin Name: Easy Donation
  * Plugin URI: http://inspirepay.com/
  * Description: Easily add a donation form, using InspirePay, to your pages via a shortcode, or to your sidebar in a widget.
  * Version: 1.0.0
- * Author: Matty
+ * Author: Matty, innerfire
  * Author URI: http://inspirepay.com/
  * License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  *
