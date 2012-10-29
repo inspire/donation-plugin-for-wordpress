@@ -12,7 +12,7 @@ Easily add a donation button to your site using InspirePay.com.  Get paid via Pa
 
 == Description ==
 
-Donations via InspirePay adds a simple widget for requesting donations in your sidebars, and gives you the power of simple short codes to request donations in your content.  InspirePay pages are free to setup at htttp://inspirepay.com/ , and are PCI DSS Level 1 compliant (ie. secure and audited by a third party) so your website doesn't need to be.  Brand them to match your style.
+Donation Plugin For Wordpress adds a simple widget for requesting donations in your sidebars, and gives you the power of simple short codes to request donations in your content.  InspirePay pages are free to setup at htttp://inspirepay.com/ , and are PCI DSS Level 1 compliant (ie. secure and audited by a third party) so your website doesn't need to be.  Brand them to match your style.
 
 Easily accept payments of a specific amount or allow your users to choose.  InspirePay's integrated payment methods include Paypal, Dwolla, Stripe, and most credit card companies.  
 
